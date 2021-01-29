@@ -1,0 +1,3 @@
+﻿  ConsoleCpp.cpp
+C:\Workspace\cppconsole\ConsoleCpp\ConsoleCpp\ConsoleCpp.cpp(200,20): warning C4018: '<': signed/unsigned mismatch
+  ConsoleCpp.vcxproj -> C:\Workspace\cppconsole\ConsoleCpp\Debug\ConsoleCpp.exe
